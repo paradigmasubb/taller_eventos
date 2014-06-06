@@ -9,7 +9,7 @@ public class Ventana extends JFrame {
 	
 	public final static int NINGUNO=0;
 	public final static int CIRCULO=1;
-	public final static int LINEA=2;
+	public final static int MOVER=2;
 	
 	private Canvas canvas;
 	private ParadigmasToolBar toolbar;
